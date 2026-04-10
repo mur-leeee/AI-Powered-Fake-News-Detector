@@ -8,7 +8,7 @@ Baseline Classifier: A Logistic Regression model using TF-IDF vectorization for 
 Reasoning Agent: A generative AI layer powered by the Gemma 4 (26B-MoE) architecture. This stage performs deep analysis to identify logical fallacies, emotional manipulation, and lack of credible sourcing in flagged content.
 
 Project Structure
-Plaintext
+```text
 fake-news-detector/
 ├── app/
 │   └── app.py            # Streamlit web application with Gemma 4 integration
@@ -22,6 +22,7 @@ fake-news-detector/
 ├── .gitignore            # Configuration to exclude secrets and local binaries
 ├── requirements.txt      # Project dependencies
 └── README.md             # Project documentation
+```
 Technical Specifications
 Machine Learning: Scikit-learn (Logistic Regression), Pandas, Pickle
 
