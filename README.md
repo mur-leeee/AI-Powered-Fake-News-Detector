@@ -1,5 +1,9 @@
 # AI-Powered-Fake-News-Detector
 AI-Powered-Fake-News-Detector
+Live Web Application: [Test the Live Deployment Here](https://ai-powered-fake-news-detector-nwptyo5cp6enxcgdgbonvk.streamlit.app/)
+Guest Passcode: `vtu_cse_2026` *(Enter this code on the landing page to unlock the interface)*
+
+---
 This is a hybrid disinformation detection system that combines classical machine learning with advanced generative AI reasoning. The system utilizes a two-tier pipeline to identify misinformation with high efficiency and deep contextual analysis.
 
 System Architecture
